@@ -1,0 +1,3 @@
+Trying to learn how to use Git - ....
+Did some changes
+Did some more changes
